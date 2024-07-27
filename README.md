@@ -35,7 +35,7 @@ Tic-Tac-Toe AI
 <br>play_game(): Manages the game loop, alternating turns between the human player and the AI, and displays the game outcome.
 
 <br>Example of game session:
-<br>  |   |  
+  |   |  
 ---------
   |   |  
 ---------
